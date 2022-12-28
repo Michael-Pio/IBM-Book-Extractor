@@ -1,0 +1,16 @@
+D:\\DevProg\\PythonProg\\Official\\IBM_BOOK_SCRAPPER\\log\\CommandsLog.txt
+1
+
+---level
+PerFormingWell
+Low Impact
+Medium Impact
+Intermediate
+High Impact
+Critical Impact
+---end
+
+---type
+adb
+cmd
+---end
